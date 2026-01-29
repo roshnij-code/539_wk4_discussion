@@ -60,12 +60,15 @@ nav a:hover {
 }
 
 nav a:focus {
-    outline: 4px solid #c07138;
-    background-color: #333333
+    outline: 4px solid #f09292;
+    background-color: #f5dfdf;
+    padding: 6px;
+    border-radius: 6px;
 }
 
 nav li:last-child {
     background-color:#f09292;
+    padding: 10px;
     border-radius: 10px;
 }
 
